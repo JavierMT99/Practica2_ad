@@ -1,0 +1,2 @@
+en esta carpeta debes crear el archivo sql de tu tabla. 
+El archivo se deberá importar directamente con el operador < desde la consola de windows o linux
